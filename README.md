@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Evranovich
+<!--- 👋 Hi, I’m @Evranovich
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Bash scripting and Python 
-- 💞️ I’m looking to collaborate on many project
+- 💞️ I’m looking to collaborate on many project -->
 <!--- - 📫 You can reach me on LinkedIn ---> 
 
 <!---
